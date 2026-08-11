@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap");
+@import "tailwindcss";
+ 
+/* Custom brand palette — same colors as before, just declared the v4 way */
+@theme {
+  --color-brand-cream-light:   #F8F1E9;
+  --color-brand-cream-dark: #E8DDD0;
+  --color-brand-gray-light:  #8B8B80;
+  --color-brand-gray-dark:  #585E54;
+  --color-brand-secondary-light: #C98B5D;
+  --color-brand-secondary-dark: #A65D35;
+  --color-brand-primary-light: #A7B89A;
+  --color-brand-primary-dark:  #425340;
+  --color-sand:  #F8F1E9;
+ 
+--font-display: "Cormorant Garamond", serif;
+  --font-sans: "Montserrat", sans-serif;
+}
+ 
+html {
+  scroll-behavior: smooth;
+}
+ 
+body {
+  background-color: var(--color-sand);
+  color: var(--color-brand-primary-dark);
+}
+
+
+.scrollbar-hide {
+  scrollbar-width: none;      /* Firefox */
+  -ms-overflow-style: none;   /* old Edge / IE */
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;              /* Chrome, Safari, new Edge */
+}
