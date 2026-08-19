@@ -60,16 +60,16 @@ export const PRODUCTS = [
   {
     name: "Chili Pepper",
     category: "SPICES",
-    moq: "10 kg / 20 kg",
+    moq: "5 kg / 20 kg",
     packaging: "Bag / Paper Bags",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
     img: chiliPepperImg,
   },
   {
-    name: "Black Pepper",
+    name: "Turmeric",
     category: "SPICES",
-    moq: "10 kg / 20 kg",
+    moq: "5 kg / 20 kg",
     packaging: "Bag / Paper Bags",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
@@ -78,7 +78,7 @@ export const PRODUCTS = [
   {
     name: "Hibiscus",
     category: "Aromatic Herbs",
-    moq: "20 kg /17 kg",
+    moq: "5 kg /17 kg",
     packaging: "Bags / Carton box",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
@@ -87,7 +87,7 @@ export const PRODUCTS = [
   {
     name: "Peppermint",
     category: "Aromatic Herbs",
-    moq: "10 kg / 25 kg",
+    moq: "5 kg / 25 kg",
     packaging: "Bags / Carton box",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
@@ -96,7 +96,7 @@ export const PRODUCTS = [
   {
     name: "Dried Mollow (Molokhia)",
     category: "Aromatic Herbs",
-    moq: "10 kg / 25 kg",
+    moq: "5 kg / 25 kg",
     packaging: "Bags / Carton box",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
@@ -105,7 +105,7 @@ export const PRODUCTS = [
   {
     name: "Chamomile",
     category: "Aromatic Herbs",
-    moq: "10 kg / 25 kg",
+    moq: "5 kg / 25 kg",
     packaging: "Bags / Carton box",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
@@ -114,7 +114,7 @@ export const PRODUCTS = [
   {
     name: "Calendula",
     category: "Aromatic Herbs",
-    moq: "10 kg / 25 kg",
+    moq: "5 kg / 25 kg",
     packaging: "Bags / Carton box",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
@@ -123,7 +123,7 @@ export const PRODUCTS = [
   {
     name: "Basil",
     category: "Aromatic Herbs",
-    moq: "10 kg / 25 kg",
+    moq: "5 kg / 25 kg",
     packaging: "Bags / Carton box",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
@@ -132,7 +132,7 @@ export const PRODUCTS = [
   {
     name: "Dill",
     category: "Aromatic Herbs",
-    moq: "10 kg / 25 kg",
+    moq: "5 kg / 25 kg",
     packaging: "Bags / Carton box",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
@@ -141,7 +141,7 @@ export const PRODUCTS = [
   {
     name: "Marjoram",
     category: "Aromatic Herbs",
-    moq: "10 kg / 25 kg",
+    moq: "5 kg / 25 kg",
     packaging: "Bags / Carton box",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
@@ -150,7 +150,7 @@ export const PRODUCTS = [
   {
     name: "Sage",
     category: "Aromatic Herbs",
-    moq: "10 kg / 25 kg",
+    moq: "5 kg / 25 kg",
     packaging: "Bags / Carton box",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
@@ -159,7 +159,7 @@ export const PRODUCTS = [
   {
     name: "Rosemary",
     category: "Aromatic Herbs",
-    moq: "10 kg / 25 kg",
+    moq: "5 kg / 25 kg",
     packaging: "Bags / Carton box",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
@@ -168,7 +168,7 @@ export const PRODUCTS = [
   {
     name: "Wormwood",
     category: "Aromatic Herbs",
-    moq: "10 kg / 25 kg",
+    moq: "5 kg / 25 kg",
     packaging: "Bags / Carton box",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
@@ -177,7 +177,7 @@ export const PRODUCTS = [
   {
     name: "Thyme",
     category: "Aromatic Herbs",
-    moq: "10 kg / 25 kg",
+    moq: "5 kg / 25 kg",
     packaging: "Bags / Carton box",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
@@ -186,7 +186,7 @@ export const PRODUCTS = [
   {
     name: "Lemongrass",
     category: "Aromatic Herbs",
-    moq: "10 kg / 25 kg",
+    moq: "5 kg / 25 kg",
     packaging: "Bags / Carton box",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
@@ -195,7 +195,7 @@ export const PRODUCTS = [
   {
     name: "Fennel",
     category: "Seeds",
-    moq: "10 kg / 25 kg",
+    moq: "5 kg / 25 kg",
     packaging: "Bags / Carton box",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
@@ -204,7 +204,7 @@ export const PRODUCTS = [
   {
     name: "Caraway",
     category: "Seeds",
-    moq: "10 kg / 25 kg",
+    moq: "5 kg / 25 kg",
     packaging: "Bags / Carton box",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
@@ -213,7 +213,7 @@ export const PRODUCTS = [
   {
     name: "Cumin",
     category: "SPICES",
-    moq: "10 kg / 25 kg",
+    moq: "5 kg / 25 kg",
     packaging: "Bags / Carton box",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
@@ -222,7 +222,7 @@ export const PRODUCTS = [
   {
     name: "Coriander",
     category: "SPICES",
-    moq: "10 kg / 25 kg",
+    moq: "5 kg / 25 kg",
     packaging: "Bags / Carton box",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
@@ -231,7 +231,7 @@ export const PRODUCTS = [
   {
     name: "Black Pepper",
     category: "SPICES",
-    moq: "10 kg / 25 kg",
+    moq: "5 kg / 25 kg",
     packaging: "Bags / Carton box",
     CapacityPerContainer:"20 FT:6 TONS 40 FT: 12 TONS",
     availability: "In Stock",
